@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/TODO/GIT/Back" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/TODO/GIT/Back/summer-middle-customer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/TODO/GIT/Back/summer-middle-order" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/TODO/GIT/concurrency" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/TODO/GIT/rearservices" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/TODO/GIT/springseed" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/TODO/GIT/summer-middle-order" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="740" />
+    <option name="y" value="492" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="miaosha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.miaosha.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
