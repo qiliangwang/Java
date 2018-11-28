@@ -114,7 +114,7 @@ public class MiaoshaController implements InitializingBean {
     	MiaoshaMessage mm = new MiaoshaMessage();
     	mm.setUser(user);
     	mm.setGoodsId(goodsId);
-//    	sender.sendMiaoshaMessage(mm);
+    	sender.sendMiaoshaMessage(mm);
     	return Result.success(0);//排队中
     	/*
     	//判断库存
