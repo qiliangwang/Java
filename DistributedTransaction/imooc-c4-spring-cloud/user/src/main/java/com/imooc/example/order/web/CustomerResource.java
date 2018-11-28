@@ -49,7 +49,7 @@ public class CustomerResource {
     @HystrixCommand
     public Map getMyInfo() {
         Customer customer = customerRepository.findOneByUsername("imooc");
-        OrderDTO order = orderClient.getMyOrder(1l);
+        OrderDTO order = orderClient.getMyOrder(1L);
         Map result = new HashMap();
         result.put("customer", customer);
         result.put("order", order);
